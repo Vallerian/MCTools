@@ -1,0 +1,5 @@
+name: MCTools
+version: ${project.version}
+main: ir.syrent.mctools.Main
+author: Syrent
+description: "Discord: https://discord.gg/39UPQg9Ybs"
